@@ -10,6 +10,7 @@
 		2AEA96C15869796BD1D20409 /* libPods-sectionIndexView.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 329E7CDEA03CD4772AEB66E2 /* libPods-sectionIndexView.a */; };
 		3499D0BA74480110C97CD726 /* libPods-sectionIndexViewUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F4A6D34177B0EF7FAD234EC9 /* libPods-sectionIndexViewUITests.a */; };
 		5D60ABA7423F048B46FAD55C /* libPods-sectionIndexViewTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 89C71B415AD4954B2018B6E4 /* libPods-sectionIndexViewTests.a */; };
+		95648E6A1F74E18C0069D6BD /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 95648E691F74E18C0069D6BD /* demo.gif */; };
 		C53B2A431F7156B5004418F0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C53B2A421F7156B5004418F0 /* main.m */; };
 		C53B2A461F7156B5004418F0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C53B2A451F7156B5004418F0 /* AppDelegate.m */; };
 		C53B2A491F7156B5004418F0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C53B2A481F7156B5004418F0 /* ViewController.m */; };
@@ -43,6 +44,7 @@
 		4636BB708E18889710F90F02 /* Pods-sectionIndexView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sectionIndexView.release.xcconfig"; path = "Pods/Target Support Files/Pods-sectionIndexView/Pods-sectionIndexView.release.xcconfig"; sourceTree = "<group>"; };
 		549FE95E2F80ACBD9C3CC0F7 /* Pods-sectionIndexViewUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sectionIndexViewUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-sectionIndexViewUITests/Pods-sectionIndexViewUITests.release.xcconfig"; sourceTree = "<group>"; };
 		89C71B415AD4954B2018B6E4 /* libPods-sectionIndexViewTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-sectionIndexViewTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		95648E691F74E18C0069D6BD /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		A2DDF64BDAFC0688F74DC171 /* Pods-sectionIndexView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sectionIndexView.debug.xcconfig"; path = "Pods/Target Support Files/Pods-sectionIndexView/Pods-sectionIndexView.debug.xcconfig"; sourceTree = "<group>"; };
 		ADB3EBBC1F82FB08C597ED2B /* Pods-sectionIndexViewTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sectionIndexViewTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-sectionIndexViewTests/Pods-sectionIndexViewTests.release.xcconfig"; sourceTree = "<group>"; };
 		BB0B908E19E8558ABEB25B09 /* Pods-sectionIndexViewUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sectionIndexViewUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-sectionIndexViewUITests/Pods-sectionIndexViewUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -162,6 +164,7 @@
 		C53B2A411F7156B5004418F0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				95648E691F74E18C0069D6BD /* demo.gif */,
 				C53B2A421F7156B5004418F0 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -306,6 +309,7 @@
 				C53B2A511F7156B5004418F0 /* LaunchScreen.storyboard in Resources */,
 				C53B2A4E1F7156B5004418F0 /* Assets.xcassets in Resources */,
 				C53B2A4C1F7156B5004418F0 /* Main.storyboard in Resources */,
+				95648E6A1F74E18C0069D6BD /* demo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
